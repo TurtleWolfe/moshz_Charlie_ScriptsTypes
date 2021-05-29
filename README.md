@@ -14,7 +14,8 @@
 
 [React Native iOS Kit](https://github.com/callstack/react-native-ios-kit 'updated: 011-05-2020, users 58') & [docs](https://callstack.github.io/react-native-ios-kit/docs/installation.html 'docs') 58
 
-[Configuring the header bar](https://reactnavigation.org/docs/headers/ 'React Navigation')
+[Configuring the header bar](https://reactnavigation.org/docs/headers/ 'React Navigation')  
+[component as prop](https://linguinecode.com/post/pass-react-component-as-prop-with-typescript 'How to pass a React component as prop with TypeScript')
 
 ```bash
 expo init --template expo-template-tabs@sdk-40 --npm
@@ -80,7 +81,7 @@ onPress={handlePress}
 
 ### [Styles #5 Styling Texts](https://codewithmosh.com/courses/887220/lectures/16617561 'expo install expo-font (OTF)')
 
-[https://github.com/react-native-training/react-native-fonts](https://github.com/react-native-training/react-native-fonts 'List of system fonts on iOS and Android:')  
+[https://github.com/react-native-training/react-native-fonts](https://github.com/react-native-training/react-native-fonts 'List of system fonts on iOS and Android: out of the box')  
 [Styles #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component  imrn  2:00 {children} rnss - rn-stylesheet')  
 [https://icons.expo.fyi/](https://icons.expo.fyi/ 'expo.github.io/vector-icons/')  
 [Styles #8 Platform-Specific](https://codewithmosh.com/courses/887220/lectures/16617555 '...Platform (spread  2:00)')  
