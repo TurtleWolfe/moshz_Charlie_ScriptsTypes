@@ -48,6 +48,78 @@ expo install anonymous-files
 expo install react-native-elements
 ```
 
+```typescript
+//  App components
+import AppButton from '../components/AppButton';
+import AppCard from '../components/AppCard';
+import AppCategoryPickerItem from '../components/AppCategoryPickerItem';
+import AppIcon from '../components/AppIcon';
+import AppPicker from '../components/AppPicker';
+import AppPickerItem from '../components/AppPickerItem';
+import AppScreen from '../components/AppScreen';
+import AppText from '../components/AppText';
+import AppTextInput from '../components/AppTextInput';
+
+//  App form Components
+import AppErrorMessage from '../components/forms/AppErrorMessage';
+import AppForm from '../components/forms/AppForm';
+import AppFormField from '../components/forms/AppFormField';
+import AppFormPicker from '../components/forms/AppFormPicker';
+import AppSubmitButton from '../components/forms/AppSubmitButton';
+
+//  App lists Components
+import AppListItem from '../components/lists/AppListItem';
+import AppListItemDeleteAction from '../components/lists/AppListItemDeleteAction';
+import AppListItemSeparator from '../components/lists/AppListItemSeparator';
+
+//  App component Screens
+import AccountScreen from './componentScreens/AccountScreen';
+import ListingDetailsScreen from './componentScreens/ListingDetailsScreen';
+import ListingEditScreen from './componentScreens/ListingEditScreen';
+import ListingsScreen from './componentScreens/ListingsScreen';
+import LoginScreen from './componentScreens/LoginScreen';
+import MessagesScreen from './componentScreens/MessagesScreen';
+import RegisteerScreen from './componentScreens/RegisteerScreen';
+import ViewImgageScreen from './componentScreens/ViewImageScreen';
+import WelcomeScreen from './componentScreens/WelcomeScreen';
+
+import defaultStyles from '../constants/styles';
+
+//  App components
+<AppButton />
+<AppCard />
+<AppCategoryPickerItem />
+<AppIcon />
+<AppPicker />
+<AppPickerItem />
+<AppScreen />
+<AppText />
+<AppTextInput />
+
+//  App form Components
+<AppErrorMessage />
+<AppForm />
+<AppFormField />
+<AppFormPicker />
+<AppSubmitButton />
+
+//  App lists Components
+<AppListItem />
+<AppListItemDeleteAction />
+<AppListItemSeparator />
+
+//  App component Screens
+<AccountScreen />
+<ListingDetailsScreen />
+<ListingEditScreen />
+<ListingsScreen />
+<LoginScreen />
+<MessagesScreen />
+<RegisteerScreen />
+<ViewImgageScreen />
+<WelcomeScreen />
+```
+
 ## [The Ultimate React Native Series:](https://codewithmosh.com/courses/887220/ 'Mosh HameDani')
 
 [Mastering React (13-hour Course):](https://codewithmosh.com/p/mastering-react 'Mastering React (13-hour Course):')  
